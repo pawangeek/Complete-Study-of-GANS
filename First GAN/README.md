@@ -4,6 +4,7 @@
 
 * `numpy`
 * `keras`
+* `matplotlib` (v2)
 
 ## About
 
@@ -13,5 +14,5 @@
 
 ## What's next
 
-* Visualization of results
+* Visualization of results (v2-added)
 * Related notes
